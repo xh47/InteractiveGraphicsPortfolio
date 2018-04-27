@@ -1,4 +1,4 @@
-# InteractiveGraphicsPortfolio
+# Interactive Graphics Portfolio
 
 CHECK IT OUT HERE: https://xh47.github.io/InteractiveGraphicsPortfolio/
 
